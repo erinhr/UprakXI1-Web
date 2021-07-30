@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.card {
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px;
+	height: 250px;
+	margin: 15rem auto;
+	width: 300px;
+	text-align: center;
+}
+
+body {
+	background-image: url(lololo.jpg);
+}
+
+.login {
+	margin-top: 10px;
+	padding: 25px;
+	font-family: Bubbleboddy Neue Trial;
+}
+
+.username {
+	font-family: Bubbleboddy Neue Trial;
+	outline: thin;
+	outline-color: black;
+    border-radius: 5px;
+    color: black;
+    height: 30px;
+    text-align: center;
+    transition: 0.25s;
+    width: 200px;
+
+}
+
+.password {
+	font-family: Bubbleboddy Neue Trial;
+	outline: thin;
+	outline-color: black;
+    border-radius: 5px;
+    color: black;
+    height: 30px;
+    text-align: center;
+    transition: 0.25s;
+    width: 200px;
+}
+
+
+.tombol_login {
+	font-family: Bubbleboddy Neue Trial;
+	border: none;
+    border-radius: 21px;
+    cursor: pointer;
+    color: black;
+    height: 42.3px;
+    margin: 0 auto;
+    transition: 0.25s;
+    width: 153px;
+}
